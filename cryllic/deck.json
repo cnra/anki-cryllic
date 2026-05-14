@@ -326,7 +326,7 @@
             "__type__": "Note",
             "fields": [
                 "город",
-                "gorod",
+                "gorodd",
                 "şehir",
                 "Г = g; iki О yazılır"
             ],
