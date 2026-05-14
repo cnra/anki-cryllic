@@ -1,0 +1,700 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "5e09603a-4fa4-11f1-9668-ac50dee7a73a",
+    "deck_config_uuid": "5e096451-4fa4-11f1-ad3f-ac50dee7a73a",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoAction": "again",
+            "autoAgain": 0,
+            "autoAlert": 0,
+            "autoAnswer": 0,
+            "autoSkip": false,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "5e096451-4fa4-11f1-ad3f-ac50dee7a73a",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    1.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default 999",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    15.0,
+                    55.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    3,
+                    0
+                ],
+                "order": 1,
+                "perDay": 999
+            },
+            "newGatherPriority": 0,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "promotion_deck": null,
+            "promotion_forbidden_tag": "",
+            "promotion_interval": 0,
+            "promotion_ivl_factor": 1.0,
+            "promotion_required_tag": "",
+            "promotion_tag": "",
+            "promotion_type": "",
+            "questionAction": 0,
+            "replayq": true,
+            "retirement_deck": null,
+            "retirement_delete": false,
+            "retirement_interval": 0,
+            "retirement_suspend": false,
+            "retirement_tag": "",
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 9999
+            },
+            "reviewOrder": 9,
+            "scheduling_enabled": false,
+            "scheduling_move_factor": 0.1,
+            "scheduling_week": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 1,
+            "waitForAudio": false,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "desiredRetention": null,
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "cryllic",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    line-height: 1.5;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -3442754535828707521,
+                    "name": "kiril",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7230593092014271242,
+                    "name": "latin",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 7052788232548002989,
+                    "name": "türkçe",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 8976295177066689459,
+                    "name": "ek",
+                    "ord": 3,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "kiril",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{latin}}\n\n<br><br>\n\n{{türkçe}}\n\n<br><br>\n{{ek}}\n\n<br>\n{{tts ru_RU voices=AwesomeTTS:kiril}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "{{kiril}}",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -1643648756194980626,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{kiril}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "мама",
+                "mama",
+                "anne",
+                "Kolay; Latin harflerine çok benzer"
+            ],
+            "guid": "wIorzIFX;~",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "папа",
+                "papa",
+                "baba",
+                "Kolay; П harfi “p” okunur"
+            ],
+            "guid": "HN#x+uLg46",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "дом",
+                "dom",
+                "ev",
+                "О harfi “o”dur; kısa ve kolay"
+            ],
+            "guid": "s/^LQ/=Zrm",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "кот",
+                "kot",
+                "kedi",
+                "К, О, Т harfleri görsel olarak kolay"
+            ],
+            "guid": "E^*h59fa@[",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "фильм",
+                "film",
+                "film",
+                "Ф = f; tanıdık kelime"
+            ],
+            "guid": "jNNZ,8hE`Z",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "метро",
+                "metro",
+                "metro",
+                "Т = t, Р = r okunur"
+            ],
+            "guid": "D%:cors00a",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "мир",
+                "mir",
+                "dünya / barış",
+                "Р harfi “r” okunur, Latin P gibi görünür ama p değildir"
+            ],
+            "guid": "KMiTyS?t7]",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "нос",
+                "nos",
+                "burun",
+                "Н harfi “n” okunur"
+            ],
+            "guid": "KQsMD3Egg{",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "брат",
+                "brat",
+                "kardeş / erkek kardeş",
+                "Б = b; Р = r"
+            ],
+            "guid": "xURYP/E|aj",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "город",
+                "gorod",
+                "şehir",
+                "Г = g; iki О yazılır"
+            ],
+            "guid": "Qk4t<H&h5l",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "вода",
+                "voda",
+                "su",
+                "В = v; “vada” değil “voda” yazımıyla öğren"
+            ],
+            "guid": "L+3ngqH!wM",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "окно",
+                "okno",
+                "pencere",
+                "İlk О vurgusuz olduğu için “akno” gibi duyulabilir; yazılışı окно"
+            ],
+            "guid": "jTfSX?&nJE",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "еда",
+                "yeda",
+                "yemek",
+                "Е kelime başında “ye” gibi okunur"
+            ],
+            "guid": "P(kguh/Fq/",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ёлка",
+                "yolka",
+                "çam ağacı",
+                "Ё her zaman “yo” gibi okunur"
+            ],
+            "guid": "2]An{`O&~",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "жена",
+                "zhena / jena",
+                "eş / kadın eş",
+                "Ж Türkçedeki “j” sesine yakın"
+            ],
+            "guid": "AAqVa}aX:X",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "зима",
+                "zima",
+                "kış",
+                "З = z"
+            ],
+            "guid": "lk?4D},W)!",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "имя",
+                "imya",
+                "isim",
+                "Я çoğu yerde “ya” etkisi verir"
+            ],
+            "guid": "yt{)AP}lh3",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "мой",
+                "moy",
+                "benim",
+                "Й kısa “y” sesidir"
+            ],
+            "guid": "oI`:c!~([S",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "лес",
+                "les",
+                "orman",
+                "Е burada “e/ye” arası duyulabilir"
+            ],
+            "guid": "L%=T/fK{dX",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "река",
+                "reka",
+                "nehir",
+                "Р = r; К = k"
+            ],
+            "guid": "sB/t62+fb*",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "солнце",
+                "solntse",
+                "güneş",
+                "Л yazılır ama telaffuzda zayıflar; “solntse”"
+            ],
+            "guid": "}O5_Bku36",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "тело",
+                "telo",
+                "vücut",
+                "Т = t; kolay okuma"
+            ],
+            "guid": "Kr9*{Lf5|8",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "улица",
+                "ulitsa",
+                "sokak",
+                "Ц = ts sesi"
+            ],
+            "guid": "Et|PgXN(TV",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "хлеб",
+                "khleb / hleb",
+                "ekmek",
+                "Х Türkçedeki kalın “h”ye yakın"
+            ],
+            "guid": "m9B3M:zSo5",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "цвет",
+                "tsvet",
+                "renk",
+                "Ц = ts; В = v"
+            ],
+            "guid": "n!`O;bC=y?",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "чай",
+                "chay / çay",
+                "çay",
+                "Ч = ç sesi"
+            ],
+            "guid": "o$Y!y`(xFT",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "школа",
+                "shkola / şkola",
+                "okul",
+                "Ш = ş sesi"
+            ],
+            "guid": "f09oMG1vB=",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "борщ",
+                "borshch / borşç",
+                "borş çorbası",
+                "Щ daha uzun/yumuşak “şç/şş” gibi çalışılabilir"
+            ],
+            "guid": "Op!2,Mks9!",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "объект",
+                "obyekt",
+                "nesne / obje",
+                "Ъ sert işaret; önceki sessizi ayırır, kendi başına okunmaz"
+            ],
+            "guid": "qrDpK[bj]7",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "мы",
+                "my / mı",
+                "biz",
+                "Ы Türkçede tam karşılığı olmayan zor ses"
+            ],
+            "guid": "z~)c).!*pl",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "сыр",
+                "syr / sır",
+                "peynir",
+                "Ы sesini çalışmak için iyi ek örnek"
+            ],
+            "guid": "z!(1S-W}z>",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "день",
+                "den’",
+                "gün",
+                "Ь yumuşatma işareti; ayrı bir ses gibi okunmaz"
+            ],
+            "guid": "HQTT&@=sr4",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "это",
+                "eto",
+                "bu / bu şey",
+                "Э açık “e” sesidir"
+            ],
+            "guid": "q3tveuvcS;",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "юг",
+                "yug",
+                "güney",
+                "Ю = yu"
+            ],
+            "guid": "f3uL9LG,Bd",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "яблоко",
+                "yabloko",
+                "elma",
+                "Я = ya; kelime başında “ya” okunur"
+            ],
+            "guid": "s#.`w!ii`O",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "да",
+                "da",
+                "evet",
+                "Çok temel ve kolay"
+            ],
+            "guid": "gCmd0mKZ=;",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "нет",
+                "nyet / net",
+                "hayır",
+                "Е burada “ye” etkisi verir"
+            ],
+            "guid": "hoaP19@zQv",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "привет",
+                "privet",
+                "merhaba",
+                "В = v; günlük kullanımda çok faydalı"
+            ],
+            "guid": "l&+=ITxA>I",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "спасибо",
+                "spasibo",
+                "teşekkürler",
+                "О sondaysa çoğu zaman “a” gibi duyulabilir: spasiba"
+            ],
+            "guid": "y`aSXW-%M",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Москва",
+                "Moskva",
+                "Moskova",
+                "В = v; şehir adı olduğu için akılda kalıcı"
+            ],
+            "guid": "w5;fEr3v*k",
+            "note_model_uuid": "5e0a950d-4fa4-11f1-b9b7-ac50dee7a73a",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
